@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Proyecto de Física</title>
+</head>
+<body>
+  <h1>Proyecto de Física</h1>
+  <p>Bienvenidos a nuestro proyecto de física.</p>
+  <h2>Introducción</h2>
+  <p>Este proyecto trata sobre...</p>
+
+  <footer>
+    <p>© 2025 Tu Nombre o Grupo. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
+Agregar página principal
